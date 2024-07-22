@@ -1,0 +1,17 @@
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/bin/Debug/net8.0/AltinFiyatlari
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/bin/Debug/net8.0/AltinFiyatlari.deps.json
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/bin/Debug/net8.0/AltinFiyatlari.runtimeconfig.json
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/bin/Debug/net8.0/AltinFiyatlari.dll
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/bin/Debug/net8.0/AltinFiyatlari.pdb
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.AssemblyInfoInputs.cache
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.AssemblyInfo.cs
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.csproj.CoreCompileInputs.cache
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.dll
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/refint/AltinFiyatlari.dll
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.pdb
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.genruntimeconfig.cache
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/ref/AltinFiyatlari.dll
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiyatlari.csproj.AssemblyReference.cache
+/Users/alperenatasever/Desktop/Altin/AltinFiyatlari/obj/Debug/net8.0/AltinFiy.63072B3A.Up2Date
